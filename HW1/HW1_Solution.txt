@@ -1,0 +1,20 @@
+HW-1
+Classical Ciphers
+A. Part a of this assignment is turned in on canvas
+
+B. Files used:
+
+     a. input1.txt   (text used) http://www.bibliomania.com/0/6/3/1057/13126/1/frameset.html
+        output of this input is in the file output1.txt(submitted on canvas)
+
+     b. input2.txt     (text used) http://www.bibliomania.com/0/6/3/1057/13142/1/frameset.html
+        output of this input is in the file output2.txt(submitted on canvas)
+
+C. Two sets of frequencies produced from input1 and input2 are similar:
+     a. Monograms: Top 4 monograms of input1 are e, t, a, o and top 4 monograms of input2 are e, t, o, a which are same. It is because e, t, a, o are the top 4 most used letters           in English.
+     b. Bigrams: Top 3 bigrams of input1 are th, he, an and top 3 bigrams of input2 are th, he, in which are also similar.
+     c. Trigrams: Top 2 trigram of both input1 and input2 are the, and which makes sense because the & and are the most used 3 letter word in English.
+
+D. Decrypted text is turned in on canvas with file name decrypted.txt
+     My approach:
+     I started with trigrams, I took first 2 trigrams and compared it with top 2 3 letter words in English. And replaced those 6 letter with cipher letter. From there I went over      some of the words and tried to manually figure out other letters.
