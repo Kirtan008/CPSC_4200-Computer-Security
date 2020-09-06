@@ -1,0 +1,100 @@
+Monograms:
+x 161
+t 126
+j 123
+m 114
+p 107
+c 96
+r 87
+b 83
+n 68
+v 64
+g 49
+w 38
+y 30
+a 29
+l 27
+i 26
+u 25
+h 23
+f 18
+e 15
+q 12
+d 6
+o 6
+k 3
+s 1
+z 1
+
+Bigrams:
+jp 66
+px 52
+bt 43
+mt 42
+tn 29
+tw 26
+xv 25
+ci 18
+pm 18
+cu 16
+vx 16
+br 15
+hb 15
+jx 14
+xt 13
+gx 12
+mr 12
+pb 12
+pc 12
+tj 12
+xn 12
+mg 10
+tc 10
+xj 10
+cj 9
+gc 9
+lx 9
+rj 9
+rm 9
+rp 9
+
+Trigrams:
+jpx 50
+mtn 26
+btw 23
+hbt 15
+pbr 8
+tjx 8
+apm 7
+btj 6
+jpe 6
+jxv 6
+mgg 6
+mlx 6
+pxv 6
+xvr 6
+xvx 6
+cut 5
+jvc 5
+mrj 5
+pmg 5
+pmt 5
+rpm 5
+vxm 5
+acu 4
+cjp 4
+cuf 4
+gxj 4
+gxn 4
+jxt 4
+mtr 4
+pcu 4
+
+Decoded message:
+in the same hour came forth fingers of a mans hand and wrote over against the candlestick uponthe plaster of the wall of the kings palace and the king saw the part of the hand that wrotethen the kings countenance was changed and his
+ thoughts troufled him so that the joints of hisloins were loosed and his knees smote one against another the king cried aloud to fring in theastrologers the chaldeans and the soothsayers and the king spake and said to the wise meno
+f fafylon whosoever shall read this writing and show me the interpretation thereof shall feclothed with scarlet and have a chain of gold afout his neck and shall fe the third rulerin the kingdom then came in all the kings wise men f
+ut they could not read the writing nor makeknown to the king the interpretation thereof then was king felshaooar greatly troufled andhis countenance was changed in him and his lords were astonished now the kueen fy reason ofthe word
+s of the king and his lords came into the fankuet house and the kueen spake and said oking live forever let not thy thoughts troufle thee nor let thy countenance fe changed there isa man in thy kingdom in whom is the spirit of the h
+oly gods and in the days of thy wisdom of thegods was found in him whom the king nefuchadneooar thy father the king i say thy fathermade master of the magicians astrologers chaldeans and soothsayers forasmuch as anezcellent spirit a
+nd knowledge and understanding interpreting of dreams and showing ofhard sentences and dissolving of doufts were found in the same daniel whom the king namedfelteshaooar now let daniel fe called and he will show the interpretation

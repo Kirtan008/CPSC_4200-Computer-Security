@@ -1,0 +1,63 @@
+The platform.
+
+Enter HAMLET, HORATIO, and MARCELLUS
+HAMLET
+
+The air bites shrewdly; it is very cold.
+HORATIO
+
+It is a nipping and an eager air.
+HAMLET
+
+What hour now?
+HORATIO
+
+I think it lacks of twelve.
+HAMLET
+
+No, it is struck.
+HORATIO
+
+Indeed? I heard it not: then it draws near the season
+Wherein the spirit held his wont to walk.
+
+A flourish of trumpets, and ordnance shot off, within
+What does this mean, my lord?
+HAMLET
+
+The king doth wake to-night and takes his rouse,
+Keeps wassail, and the swaggering up-spring reels;
+And, as he drains his draughts of Rhenish down,
+The kettle-drum and trumpet thus bray out
+The triumph of his pledge.
+HORATIO
+
+Is it a custom?
+HAMLET
+
+Ay, marry, is't:
+But to my mind, though I am native here
+And to the manner born, it is a custom
+More honour'd in the breach than the observance.
+This heavy-headed revel east and west
+Makes us traduced and tax'd of other nations:
+They clepe us drunkards, and with swinish phrase
+Soil our addition; and indeed it takes
+From our achievements, though perform'd at height,
+The pith and marrow of our attribute.
+So, oft it chances in particular men,
+That for some vicious mole of nature in them,
+As, in their birth–wherein they are not guilty,
+Since nature cannot choose his origin–
+By the o'ergrowth of some complexion,
+Oft breaking down the pales and forts of reason,
+Or by some habit that too much o'er-leavens
+The form of plausive manners, that these men,
+Carrying, I say, the stamp of one defect,
+Being nature's livery, or fortune's star,–
+Their virtues else–be they as pure as grace,
+As infinite as man may undergo–
+Shall in the general censure take corruption
+From that particular fault: the dram of eale
+Doth all the noble substance of a doubt
+To his own scandal.
